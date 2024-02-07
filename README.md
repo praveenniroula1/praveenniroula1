@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Niroula</h1>
 <h3 align="center">A passionate frontend developer from Adelaide</h3>
 
-<p align="left"> <img src="https://iconscout.com/lottie-animation/coding-error-8928574" alt="praveenniroula1" /> </p>
+"https://iconscout.com/lottie-animation/coding-error-8928574" alt="praveenniroula1" />Praveen </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
