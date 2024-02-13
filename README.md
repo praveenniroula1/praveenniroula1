@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Praveen Niroula</h1>
-<h3 align="center">A passionate frontend developer from Adelaide</h3>
+<h3 align="center">A passionate Full Stack developer from Adelaide</h3>
 
 
 
